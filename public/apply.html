@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Apply-Wise — Find Your Match</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/base.css"/>
+  <link rel="stylesheet" href="css/apply.css"/>
+</head>
+<body>
+<a class="skip-link" href="#wizard">Skip to form</a>
+
+<nav>
+  <a href="index.html" class="nav-logo">apply<span>-wise</span></a>
+  <ul class="nav-links">
+    <li><a href="index.html#problem">Problem</a></li>
+    <li><a href="index.html#how">How It Works</a></li>
+    <li><a href="index.html#team">Team</a></li>
+  </ul>
+  <a href="index.html" class="nav-cta">← Back Home</a>
+  <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span><span></span></button>
+</nav>
+<div class="mobile-nav-overlay" id="mobileNav">
+  <a href="index.html">Home</a>
+  <a href="index.html#how">How It Works</a>
+  <a href="index.html#team">Team</a>
+</div>
+
+<main class="apply-wrapper">
+  <ol class="progress-bar" aria-label="Progress">
+    <li class="progress-step active" data-step="1"><div class="progress-dot">1</div><div class="progress-label">Personal</div></li>
+    <li class="progress-step" data-step="2"><div class="progress-dot">2</div><div class="progress-label">Subjects</div></li>
+    <li class="progress-step" data-step="3"><div class="progress-dot">3</div><div class="progress-label">Interests</div></li>
+    <li class="progress-step" data-step="4"><div class="progress-dot">4</div><div class="progress-label">Review</div></li>
+  </ol>
+
+  <form class="wizard-card" id="wizard" novalidate>
+    <div class="alert alert-error" id="formAlert" role="alert" hidden></div>
+
+    <!-- STEP 1 -->
+    <section class="wizard-step active" data-step="1" aria-labelledby="s1title">
+      <div class="step-header">
+        <span class="section-tag">Step 1 of 4</span>
+        <h2 id="s1title" tabindex="-1">Tell us about yourself</h2>
+        <p>Basic info to personalise your recommendations.</p>
+      </div>
+      <div class="field-group">
+        <div class="field-row">
+          <label>First Name
+            <input type="text" name="firstName" autocomplete="given-name" maxlength="50" placeholder="e.g. Thabo" required/>
+            <span class="field-error" data-error-for="firstName"></span>
+          </label>
+          <label>Last Name
+            <input type="text" name="lastName" autocomplete="family-name" maxlength="50" placeholder="e.g. Dlamini" required/>
+            <span class="field-error" data-error-for="lastName"></span>
+          </label>
+        </div>
+        <label>Province
+          <select name="province" data-options="provinces" required><option value="">— Select your province —</option></select>
+          <span class="field-error" data-error-for="province"></span>
+        </label>
+        <label>Matric Year
+          <select name="matricYear" data-options="years" required><option value="">— Select year —</option></select>
+          <span class="field-error" data-error-for="matricYear"></span>
+        </label>
+      </div>
+      <div class="wizard-nav">
+        <button type="button" class="back-btn" disabled>← Back</button>
+        <button type="button" class="btn-primary" data-next>Next: Subjects →</button>
+      </div>
+    </section>
+
+    <!-- STEP 2 -->
+    <section class="wizard-step" data-step="2" aria-labelledby="s2title">
+      <div class="step-header">
+        <span class="section-tag">Step 2 of 4</span>
+        <h2 id="s2title" tabindex="-1">Your subjects &amp; grades</h2>
+        <p>Enter each subject and your percentage. Your APS uses your best six subjects, excluding Life Orientation.</p>
+      </div>
+      <div id="subjectList" class="field-group"></div>
+      <button type="button" class="add-subject-btn" id="addSubject">+ Add another subject</button>
+      <div class="field-error" data-error-for="subjects"></div>
+      <div class="aps-badge">
+        <div>
+          <div class="aps-badge-label">Your APS Score</div>
+          <div class="aps-badge-note" id="apsNote">Updates as you enter grades</div>
+        </div>
+        <div class="aps-badge-score-wrap"><output class="aps-badge-score" id="apsDisplay" aria-live="polite">0</output></div>
+      </div>
+      <div class="wizard-nav">
+        <button type="button" class="back-btn" data-back>← Back</button>
+        <button type="button" class="btn-primary" data-next>Next: Interests →</button>
+      </div>
+    </section>
+
+    <!-- STEP 3 -->
+    <section class="wizard-step" data-step="3" aria-labelledby="s3title">
+      <div class="step-header">
+        <span class="section-tag">Step 3 of 4</span>
+        <h2 id="s3title" tabindex="-1">What interests you?</h2>
+        <p>Select all fields you're curious about. This helps us rank your matches.</p>
+      </div>
+      <div class="field-group">
+        <div>
+          <span class="field-label" id="interestsLabel">Career interest areas <span class="hint">Select one or more</span></span>
+          <div class="tag-group" id="interestTags" role="group" aria-labelledby="interestsLabel"></div>
+        </div>
+        <label>Any specific career in mind? <span class="hint">Optional</span>
+          <input type="text" name="careerGoal" maxlength="100" placeholder="e.g. Software developer, Doctor, Teacher…"/>
+        </label>
+        <label>Preferred study location <span class="hint">Optional</span>
+          <select name="studyLocation" data-options="provinces"><option value="">— Any province / No preference —</option></select>
+        </label>
+      </div>
+      <div class="wizard-nav">
+        <button type="button" class="back-btn" data-back>← Back</button>
+        <button type="button" class="btn-primary" data-next>Review &amp; Submit →</button>
+      </div>
+    </section>
+
+    <!-- STEP 4 -->
+    <section class="wizard-step" data-step="4" aria-labelledby="s4title">
+      <div class="step-header">
+        <span class="section-tag">Step 4 of 4</span>
+        <h2 id="s4title" tabindex="-1">Review your details</h2>
+        <p>Double-check everything before we find your matches.</p>
+      </div>
+      <div id="reviewContent"></div>
+      <div class="wizard-nav">
+        <button type="button" class="back-btn" data-back>← Back</button>
+        <button type="submit" class="btn-primary" id="submitBtn">Find My Matches 🎯</button>
+      </div>
+    </section>
+  </form>
+</main>
+
+<footer>
+  <div class="footer-logo">apply<span>-wise</span></div>
+  <p>© 2026 Apply-Wise · WebWizards · Built for South African Students</p>
+</footer>
+
+<script src="shared/aps.js" defer></script>
+<script src="js/core/app.js" defer></script>
+<script src="js/pages/apply.js" defer></script>
+</body>
+</html>

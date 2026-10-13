@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Apply-Wise — Admin Sign In</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="/css/base.css"/>
+  <link rel="stylesheet" href="/css/admin.css"/>
+</head>
+<body>
+<main class="admin-login">
+  <div class="login-card">
+    <a href="/index.html" class="login-brand">apply<span>-wise</span></a><span class="login-badge">Admin</span>
+    <h1>Administrator sign in</h1>
+    <p class="sub">Sign in to view applications and system statistics.</p>
+
+    <div class="alert alert-error" id="loginAlert" role="alert" hidden></div>
+    <div class="alert alert-info" id="loginNotice" role="status" hidden></div>
+
+    <form id="loginForm" novalidate>
+      <label class="form-field">Username
+        <input type="text" name="username" autocomplete="username" autocapitalize="none" spellcheck="false" maxlength="64" required autofocus/>
+      </label>
+      <label class="form-field">Password
+        <span class="password-wrap">
+          <input type="password" name="password" id="password" autocomplete="current-password" maxlength="256" required/>
+          <button type="button" class="toggle-password" id="togglePassword" aria-controls="password" aria-pressed="false">Show</button>
+        </span>
+      </label>
+      <button type="submit" class="btn-primary" id="loginBtn">Sign in</button>
+    </form>
+    <p class="login-foot"><a href="/index.html">← Back to Apply-Wise</a></p>
+  </div>
+</main>
+<script src="/js/core/app.js" defer></script>
+<script src="/js/pages/admin-login.js" defer></script>
+</body>
+</html>

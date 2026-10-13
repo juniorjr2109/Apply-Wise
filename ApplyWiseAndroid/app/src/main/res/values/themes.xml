@@ -1,0 +1,8 @@
+<resources>
+    <!-- Window theme only; all UI colours come from the Compose Material 3 theme. -->
+    <style name="Theme.ApplyWise" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+    </style>
+    <color name="splash_background">#F8F5EF</color>
+    <color name="launcher_background">#2D6A4F</color>
+</resources>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="robots" content="noindex"/>
+  <title>Apply-Wise — Your Matches</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/base.css"/>
+  <link rel="stylesheet" href="css/results.css"/>
+</head>
+<body>
+<a class="skip-link" href="#results">Skip to results</a>
+
+<nav>
+  <a href="index.html" class="nav-logo">apply<span>-wise</span></a>
+  <ul class="nav-links">
+    <li><a href="apply.html">New Search</a></li>
+    <li><a href="index.html">Home</a></li>
+  </ul>
+  <a href="apply.html" class="nav-cta">← New Search</a>
+  <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span><span></span></button>
+</nav>
+<div class="mobile-nav-overlay" id="mobileNav">
+  <a href="apply.html">New Search</a>
+  <a href="index.html">Home</a>
+</div>
+
+<main class="results-wrapper" id="results" aria-live="polite" aria-busy="true">
+  <div class="loading-state" id="loadingState">
+    <div class="spinner" aria-hidden="true"></div>
+    <h3>Matching your profile<span class="loading-dots"></span></h3>
+    <p>Checking your subjects and APS against our catalogue of SA institutions.</p>
+  </div>
+
+  <div id="resultsView" hidden>
+    <div class="results-hero">
+      <div>
+        <h1 id="heroGreeting">Your personalised matches</h1>
+        <p id="heroSub"></p>
+      </div>
+      <div class="aps-pill">
+        <div class="aps-pill-score" id="heroAps">—</div>
+        <div class="aps-pill-label">APS Score</div>
+      </div>
+    </div>
+    <p class="results-summary" id="summary"></p>
+    <div class="results-grid" id="resultsGrid"></div>
+    <div class="disclaimer">
+      <strong>Important notice:</strong> These recommendations are for guidance only. Admission requirements change every year — always confirm with the institution before applying.
+    </div>
+    <div class="results-cta">
+      <div>
+        <strong>Ready to take the next step?</strong>
+        <p>Bookmark this page — the link keeps your results. Then apply on each institution's official website.</p>
+      </div>
+      <div class="results-actions">
+        <a href="apply.html" class="btn-ghost">Search Again</a>
+        <a href="index.html" class="btn-white">Back Home</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="error-state" id="errorState" hidden>
+    <div class="error-icon" aria-hidden="true">⚠️</div>
+    <h3 id="errorTitle">Something went wrong</h3>
+    <p id="errorMessage"></p>
+    <a href="apply.html" class="btn-primary">Go to the application form</a>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-logo">apply<span>-wise</span></div>
+  <p>© 2026 Apply-Wise · WebWizards · Built for South African Students</p>
+</footer>
+
+<script src="js/core/app.js" defer></script>
+<script src="js/pages/results.js" defer></script>
+</body>
+</html>

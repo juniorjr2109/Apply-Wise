@@ -1,0 +1,16 @@
+{
+  "name": "apply-wise",
+  "version": "2.0.0",
+  "description": "Apply-Wise — matches South African matric students to university courses by APS and subjects, with an admin dashboard.",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "WebWizards — University of Mpumalanga (BICT231)",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "node --watch --disable-warning=ExperimentalWarning server/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test \"tests/*.test.js\"",
+    "bench": "node --disable-warning=ExperimentalWarning bench/matching.bench.js",
+    "create-admin": "node --disable-warning=ExperimentalWarning server/scripts/create-admin.js"
+  }
+}

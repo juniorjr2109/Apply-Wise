@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Apply-Wise — Admin Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="/css/base.css"/>
+  <link rel="stylesheet" href="/css/admin.css"/>
+</head>
+<body class="admin-body">
+<a class="skip-link" href="#dash">Skip to dashboard</a>
+
+<nav class="admin-nav">
+  <a href="/admin/dashboard.html" class="nav-logo">apply<span>-wise</span></a>
+  <ul class="nav-links">
+    <li><a href="/admin/dashboard.html" aria-current="page">Dashboard</a></li>
+    <li><a href="/index.html" target="_blank" rel="noopener">View site ↗</a></li>
+  </ul>
+  <div class="admin-user">
+    <div class="nav-avatar" id="userAvatar" aria-hidden="true">–</div>
+    <span class="nav-name" id="userName"></span>
+    <button type="button" class="nav-logout" id="logoutBtn">Sign out</button>
+  </div>
+</nav>
+
+<main class="dash" id="dash" hidden>
+  <header class="dash-header">
+    <div>
+      <h1>Applications dashboard</h1>
+      <p id="updatedAt">Loading…</p>
+    </div>
+    <div class="dash-actions">
+      <button type="button" class="btn-small" id="refreshBtn">↻ Refresh</button>
+      <a class="btn-small" href="/api/admin/applications/export.csv" id="exportBtn" download>⬇ Export CSV</a>
+    </div>
+  </header>
+
+  <div class="alert alert-error" id="dashAlert" role="alert" hidden></div>
+
+  <section class="stat-grid" aria-label="Summary statistics">
+    <div class="stat-card"><div class="stat-label">Total applications</div><div class="stat-value" data-stat="applications">–</div><div class="stat-sub" data-stat-sub="today">&nbsp;</div></div>
+    <div class="stat-card"><div class="stat-label">Average APS</div><div class="stat-value" data-stat="avgAps">–</div><div class="stat-sub">out of 42</div></div>
+    <div class="stat-card"><div class="stat-label">Avg matches</div><div class="stat-value" data-stat="avgMatches">–</div><div class="stat-sub">courses per student</div></div>
+    <div class="stat-card"><div class="stat-label">Top province</div><div class="stat-value is-text" data-stat="topProvince">–</div><div class="stat-sub">most applications</div></div>
+    <div class="stat-card"><div class="stat-label">Catalogue</div><div class="stat-value" data-stat="courses">–</div><div class="stat-sub" data-stat-sub="institutions">&nbsp;</div></div>
+  </section>
+
+  <section class="panel-grid">
+    <div class="panel"><h2>Applications — last 14 days</h2><div class="spark" id="dailyChart"></div></div>
+    <div class="panel"><h2>APS distribution</h2><div id="apsChart"></div></div>
+    <div class="panel"><h2>Applications by province</h2><div id="provinceChart"></div></div>
+    <div class="panel"><h2>Most common interests</h2><div id="interestChart"></div></div>
+  </section>
+
+  <section class="panel table-panel" aria-labelledby="tableTitle">
+    <div class="table-toolbar">
+      <h2 id="tableTitle">All applications</h2>
+      <div class="table-filters">
+        <label class="visually-hidden" for="searchInput">Search by name</label>
+        <input type="search" id="searchInput" placeholder="Search by name…" maxlength="60" autocomplete="off"/>
+        <label class="visually-hidden" for="provinceFilter">Filter by province</label>
+        <select id="provinceFilter"><option value="">All provinces</option></select>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Province</th>
+            <th scope="col" class="hide-sm">Matric</th>
+            <th scope="col">APS</th>
+            <th scope="col" class="hide-sm">Matches</th>
+            <th scope="col" class="hide-sm">Submitted</th>
+            <th scope="col"><span class="visually-hidden">Actions</span></th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+    <div class="pagination">
+      <span id="pageInfo" aria-live="polite"></span>
+      <div class="pager">
+        <button type="button" class="btn-small" id="prevPage">← Prev</button>
+        <button type="button" class="btn-small" id="nextPage">Next →</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<dialog class="detail" id="detailDialog" aria-labelledby="detailTitle">
+  <div class="detail-head">
+    <div><h2 id="detailTitle">Application</h2><p id="detailMeta"></p></div>
+    <button type="button" class="icon-btn" id="closeDetail" aria-label="Close">✕</button>
+  </div>
+  <div class="detail-body" id="detailBody"></div>
+</dialog>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="/shared/aps.js" defer></script>
+<script src="/js/core/app.js" defer></script>
+<script src="/js/pages/admin-dashboard.js" defer></script>
+</body>
+</html>

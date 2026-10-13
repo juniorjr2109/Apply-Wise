@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.ApplyWise" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background_dark</item>
+    </style>
+    <color name="splash_background_dark">#101512</color>
+</resources>

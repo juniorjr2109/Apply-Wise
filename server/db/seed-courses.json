@@ -1,0 +1,1856 @@
+[
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BSc Computer Science",
+  "faculty": "Engineering, Built Environment & IT",
+  "minAps": 32,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BEng Civil Engineering",
+  "faculty": "Engineering, Built Environment & IT",
+  "minAps": 34,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BEng Electrical Engineering",
+  "faculty": "Engineering, Built Environment & IT",
+  "minAps": 34,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BCom Accounting Sciences",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 32,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BCom Business Management",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 30,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "MBChB (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 36,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BDS (Dentistry)",
+  "faculty": "Health Sciences",
+  "minAps": 34,
+  "mathMin": 65,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BSc Biological Sciences",
+  "faculty": "Natural & Agricultural Sciences",
+  "minAps": 28,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Natural Sciences"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 30,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BA Education",
+  "faculty": "Education",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of Pretoria",
+  "province": "Gauteng",
+  "course": "BArchSc Architecture",
+  "faculty": "Engineering, Built Environment & IT",
+  "minAps": 30,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Architecture & Design"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BSc Computer Science",
+  "faculty": "Science",
+  "minAps": 34,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BEng Mechanical Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 35,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "MBBCh (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 38,
+  "mathMin": 75,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BCom Accounting",
+  "faculty": "Commerce, Law & Management",
+  "minAps": 33,
+  "mathMin": 65,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "LLB Law",
+  "faculty": "Commerce, Law & Management",
+  "minAps": 33,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BA Journalism & Media Studies",
+  "faculty": "Humanities",
+  "minAps": 30,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BArch Architecture",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 32,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Architecture & Design"
+  ]
+ },
+ {
+  "institution": "University of the Witwatersrand",
+  "province": "Gauteng",
+  "course": "BSc Mining Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 33,
+  "mathMin": 65,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "MBChB (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 40,
+  "mathMin": 80,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "BSc Computer Science",
+  "faculty": "Science",
+  "minAps": 36,
+  "mathMin": 75,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "BCom Accounting",
+  "faculty": "Commerce",
+  "minAps": 36,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 36,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "BEng Chemical Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 37,
+  "mathMin": 75,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "BA Architecture",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 34,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Architecture & Design"
+  ]
+ },
+ {
+  "institution": "University of Cape Town",
+  "province": "Western Cape",
+  "course": "BSocSc Social Sciences",
+  "faculty": "Humanities",
+  "minAps": 33,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "MBChB (Medicine)",
+  "faculty": "Medicine & Health Sciences",
+  "minAps": 38,
+  "mathMin": 75,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "BEng Electrical & Electronic Engineering",
+  "faculty": "Engineering",
+  "minAps": 36,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "BCom Accounting",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 34,
+  "mathMin": 65,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 34,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "BSc Agricultural Sciences",
+  "faculty": "AgriSciences",
+  "minAps": 30,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment",
+   "Natural Sciences"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "BScEng Civil Engineering",
+  "faculty": "Engineering",
+  "minAps": 35,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Stellenbosch University",
+  "province": "Western Cape",
+  "course": "BA Media Studies",
+  "faculty": "Arts & Social Sciences",
+  "minAps": 30,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "MBChB (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 36,
+  "mathMin": 70,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "BSc Computer Science",
+  "faculty": "Science & Agriculture",
+  "minAps": 28,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "BCom Accounting",
+  "faculty": "Management Studies",
+  "minAps": 28,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 28,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "BSc Agricultural Science",
+  "faculty": "Science & Agriculture",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "University of KwaZulu-Natal",
+  "province": "KwaZulu-Natal",
+  "course": "BA Social Work",
+  "faculty": "Humanities, Development & Social Sciences",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BSc Information Technology",
+  "faculty": "Science",
+  "minAps": 28,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BCom Accounting",
+  "faculty": "Accounting & Informatics",
+  "minAps": 28,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BEng Industrial Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 30,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 28,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BEd Foundation Phase Teaching",
+  "faculty": "Education",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BA Communication",
+  "faculty": "Humanities",
+  "minAps": 25,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication",
+   "Arts & Humanities"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BEng Civil Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 30,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Johannesburg",
+  "province": "Gauteng",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Information Technology",
+  "faculty": "Information & Communication Technology",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Accounting",
+  "faculty": "Management Sciences",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Nursing",
+  "faculty": "Science",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Journalism",
+  "faculty": "Humanities",
+  "minAps": 18,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "BTech Architecture",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 22,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Architecture & Design"
+  ]
+ },
+ {
+  "institution": "Tshwane University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Tourism Management",
+  "faculty": "Management Sciences",
+  "minAps": 18,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "MBChB (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 34,
+  "mathMin": 65,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "BCom Accounting",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 28,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 28,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "BSc Agricultural Sciences",
+  "faculty": "Natural & Agricultural Sciences",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "BA Social Work",
+  "faculty": "The Humanities",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of the Free State",
+  "province": "Free State",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BA Journalism & Media Studies",
+  "faculty": "Humanities",
+  "minAps": 28,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BCom Economics",
+  "faculty": "Commerce",
+  "minAps": 28,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Business & Commerce",
+   "Finance & Accounting"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 28,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BSc Computer Science",
+  "faculty": "Science",
+  "minAps": 28,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BA Environmental Science",
+  "faculty": "Science",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Agriculture & Environment",
+   "Natural Sciences"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BA Education",
+  "faculty": "Education",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "Rhodes University",
+  "province": "Eastern Cape",
+  "course": "BA Fine Art",
+  "faculty": "Humanities",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Arts & Humanities",
+   "Architecture & Design"
+  ]
+ },
+ {
+  "institution": "Walter Sisulu University",
+  "province": "Eastern Cape",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Walter Sisulu University",
+  "province": "Eastern Cape",
+  "course": "BCom Accounting",
+  "faculty": "Economic Sciences",
+  "minAps": 22,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Walter Sisulu University",
+  "province": "Eastern Cape",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "Walter Sisulu University",
+  "province": "Eastern Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "Walter Sisulu University",
+  "province": "Eastern Cape",
+  "course": "BA Social Work",
+  "faculty": "Humanities",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "MBChB (Medicine)",
+  "faculty": "Health Sciences",
+  "minAps": 32,
+  "mathMin": 60,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences",
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "BSc Computer Science",
+  "faculty": "Science & Agriculture",
+  "minAps": 24,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "BCom Accounting",
+  "faculty": "Management & Law",
+  "minAps": 24,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "LLB Law",
+  "faculty": "Management & Law",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of Limpopo",
+  "province": "Limpopo",
+  "course": "BSc Agriculture",
+  "faculty": "Science & Agriculture",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "University of Mpumalanga",
+  "province": "Mpumalanga",
+  "course": "BEd Foundation Phase Teaching",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of Mpumalanga",
+  "province": "Mpumalanga",
+  "course": "BCom Business Management",
+  "faculty": "Business Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Mpumalanga",
+  "province": "Mpumalanga",
+  "course": "BSc Agriculture",
+  "faculty": "Agriculture & Natural Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "University of Mpumalanga",
+  "province": "Mpumalanga",
+  "course": "BA Tourism",
+  "faculty": "Business Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Mpumalanga",
+  "province": "Mpumalanga",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BCom Accounting",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 26,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BSc Computer Science",
+  "faculty": "Natural & Agricultural Sciences",
+  "minAps": 26,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BSc Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BA Communication Studies",
+  "faculty": "Humanities",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "North-West University",
+  "province": "North West",
+  "course": "BCom Tourism Management",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BCom Accounting",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 26,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 26,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BSc Computer Science",
+  "faculty": "Natural Sciences",
+  "minAps": 26,
+  "mathMin": 55,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BSc Nursing",
+  "faculty": "Community & Health Sciences",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BA Social Work",
+  "faculty": "Community & Health Sciences",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of the Western Cape",
+  "province": "Western Cape",
+  "course": "BA Political Studies",
+  "faculty": "Arts",
+  "minAps": 24,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences",
+   "Arts & Humanities"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Information Technology",
+  "faculty": "Informatics & Design",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Graphic Design",
+  "faculty": "Informatics & Design",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Architecture & Design",
+   "Arts & Humanities"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Accounting",
+  "faculty": "Business & Management Sciences",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Nursing",
+  "faculty": "Health & Wellness Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Cape Peninsula University of Technology",
+  "province": "Western Cape",
+  "course": "Diploma in Tourism & Hospitality",
+  "faculty": "Business & Management Sciences",
+  "minAps": 18,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Durban University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Information Technology",
+  "faculty": "Applied Sciences",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Durban University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Accounting",
+  "faculty": "Accounting & Informatics",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Durban University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Nursing",
+  "faculty": "Health Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Health Sciences"
+  ]
+ },
+ {
+  "institution": "Durban University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Journalism",
+  "faculty": "Arts & Design",
+  "minAps": 18,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication"
+  ]
+ },
+ {
+  "institution": "Durban University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering & the Built Environment",
+  "minAps": 20,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Mangosuthu University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Information Technology",
+  "faculty": "Natural Sciences",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Mangosuthu University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Mangosuthu University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Accounting",
+  "faculty": "Management Sciences",
+  "minAps": 16,
+  "mathMin": 30,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting"
+  ]
+ },
+ {
+  "institution": "Mangosuthu University of Technology",
+  "province": "KwaZulu-Natal",
+  "course": "Diploma in Nature Conservation",
+  "faculty": "Natural Sciences",
+  "minAps": 18,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "Vaal University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Information Technology",
+  "faculty": "Applied & Computer Sciences",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Vaal University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Accounting",
+  "faculty": "Management Sciences",
+  "minAps": 16,
+  "mathMin": 30,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Vaal University of Technology",
+  "province": "Gauteng",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering & Technology",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "BCom Accounting Sciences",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 23,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 23,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "BA Education",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "BSc Computer Science",
+  "faculty": "Science, Engineering & Technology",
+  "minAps": 23,
+  "mathMin": 50,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "BA Social Work",
+  "faculty": "Human Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of South Africa (UNISA)",
+  "province": "Gauteng",
+  "course": "BA Communication",
+  "faculty": "Human Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Media & Communication",
+   "Arts & Humanities"
+  ]
+ },
+ {
+  "institution": "Sol Plaatje University",
+  "province": "Northern Cape",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "Sol Plaatje University",
+  "province": "Northern Cape",
+  "course": "BCom Business Management",
+  "faculty": "Economic & Management Sciences",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "Sol Plaatje University",
+  "province": "Northern Cape",
+  "course": "BA Heritage Studies",
+  "faculty": "Humanities",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Arts & Humanities",
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "University of Fort Hare",
+  "province": "Eastern Cape",
+  "course": "BCom Accounting",
+  "faculty": "Management & Commerce",
+  "minAps": 22,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting",
+   "Business & Commerce"
+  ]
+ },
+ {
+  "institution": "University of Fort Hare",
+  "province": "Eastern Cape",
+  "course": "LLB Law",
+  "faculty": "Law",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Law"
+  ]
+ },
+ {
+  "institution": "University of Fort Hare",
+  "province": "Eastern Cape",
+  "course": "BEd Education",
+  "faculty": "Education",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ },
+ {
+  "institution": "University of Fort Hare",
+  "province": "Eastern Cape",
+  "course": "BSc Agricultural Science",
+  "faculty": "Science & Agriculture",
+  "minAps": 22,
+  "mathMin": 0,
+  "requiredSubjects": [
+   "Life Sciences"
+  ],
+  "interests": [
+   "Agriculture & Environment"
+  ]
+ },
+ {
+  "institution": "University of Fort Hare",
+  "province": "Eastern Cape",
+  "course": "BA Social Work",
+  "faculty": "Social Sciences & Humanities",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Social Sciences"
+  ]
+ },
+ {
+  "institution": "Central University of Technology",
+  "province": "Free State",
+  "course": "Diploma in Information Technology",
+  "faculty": "Engineering, IT & Systems",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Central University of Technology",
+  "province": "Free State",
+  "course": "Diploma in Accounting",
+  "faculty": "Management Sciences",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics"
+  ],
+  "interests": [
+   "Finance & Accounting"
+  ]
+ },
+ {
+  "institution": "Central University of Technology",
+  "province": "Free State",
+  "course": "Diploma in Civil Engineering",
+  "faculty": "Engineering, IT & Systems",
+  "minAps": 18,
+  "mathMin": 40,
+  "requiredSubjects": [
+   "Mathematics",
+   "Physical Sciences"
+  ],
+  "interests": [
+   "Engineering & Technology"
+  ]
+ },
+ {
+  "institution": "Central University of Technology",
+  "province": "Free State",
+  "course": "BEd Education",
+  "faculty": "Humanities",
+  "minAps": 20,
+  "mathMin": 0,
+  "requiredSubjects": [],
+  "interests": [
+   "Education & Teaching"
+  ]
+ }
+]
